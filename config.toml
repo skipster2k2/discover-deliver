@@ -85,8 +85,7 @@ theme = "LoveIt"
       # title shown in home page (HTML format is supported)
       title = "Discover Deliver Ltd"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "<p>I help multidisciplinary teams deliver services in a user centred way.</p><p>Currently working with <a href='https://dxw.com'>dxw</a> until May 2023</p>"
-      # whether to use typeit animation for subtitle
+      subtitle = "<p>I help multidisciplinary teams deliver services in a user centred way.</p>""
       typeit = false
       # whether to show social links
       social = true
@@ -171,6 +170,6 @@ theme = "LoveIt"
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = "hello@discover-deliver.co.uk"
+    Email = "ian@discover-deliver.co.uk"
     Phone = "tel:07944876831"
     RSS = ""

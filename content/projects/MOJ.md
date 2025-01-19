@@ -1,6 +1,6 @@
 ---
 date: '2023-10-30' # date in which the content is created - defaults to "today"
-title: 'Ministry of Justice - Refer and Monitor Accredited Programmes'
+title: 'Ministry of Justice (via dxw) - Refer and Monitor Accredited Programmes'
 draft: false # set to "true" if you want to hide the content 
 
 link: "https://www.adrianmoreno.info" # optional URL to link the logo to

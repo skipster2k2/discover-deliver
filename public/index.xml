@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job #3</title>
+      <link>http://localhost:1313/experience/job-3/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-3/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Hostile takeover - who is the boss now!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BT - Building Products Together</title>
+      <link>http://localhost:1313/projects/bt/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bt/</guid>
+      <description>&lt;p&gt;Supporting BT implementing a new Product Operating Model aimed at bringing digital and business people closer together aligned around products and services. A large complex transformation involving multiple stakeholders and delivery partners.&lt;/p&gt;&#xA;&lt;p&gt;My role is frontrunner lead, supporting and coaching the first tribe established in this model. I lead a team defining, testing, and documenting ways of working. I created and taught a series of masterclasses focused on modern product management and delivery practices, focused on the mindset changes needed to make the transformation a success. I objectively feedback what is working and what could be improved as the Operating Model is implemented.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DEFRA - Benchmark System for Flood Hydrology</title>
+      <link>http://localhost:1313/projects/defra/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/defra/</guid>
+      <description>&lt;p&gt;I led a delivery team in the flood digital programme. Doing a discovery into how to introduce more methods for flood hydrology into working practice. Advocating for user centred design practices in a team new to agile practices. Constructively challenging scope to ensure we consider the whole end to end service. Mapping service journeys based on user research.&#xA;It required me to advocate for user centred practices and to frame discovery as due-diligence, providing assurance that a benchmark system is what is needed. Through a combination of research, service mapping and coaching; I was able to reframe the objectives to 3 much clearer opportunities to explore in alpha.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job #2</title>
+      <link>http://localhost:1313/experience/job-2/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-2/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Continuing the quest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ministry of Justice - Refer and Monitor Accredited Programmes</title>
+      <link>http://localhost:1313/projects/moj/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/moj/</guid>
+      <description>&lt;p&gt;Exploring how to improve referrals  and decision making to accredited programmes. Behavioural programmes offered to prisoners in custody and on probation designed to help with reintegration into society.&lt;/p&gt;&#xA;&lt;p&gt;I led a multidisciplinary team through discovery to beta.I helped the team archive a ‘met’ in the alpha assessment for the first time, using my experience of previous assessments to guide the team to success. I have navigated internal MOJ processes to understand how to get things done, which processes are absolute ‘must haves’ to be done, and what can be challenged to help us move at pace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job #1</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;The beginning of a great career.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NHS Digital - Directory of Services</title>
+      <link>http://localhost:1313/projects/nhs-dos/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/nhs-dos/</guid>
+      <description>&lt;p&gt;The Directory of services is the list of all emergency care settings where healthcare professionals can refer patients. It is imperative the information is kept up to date and accurate to ensure that patients get to the right care setting before their condition worsens. I worked with stakeholders and commissioners to understand strategy intent and goals. Understanding user needs to ensure our product meets them. Setting team priorities and ensuring value is delivered. Being the ‘voice of the product’ to the wider organisation.The main focus was on how to improve the quality of emergency dental referral information in the DoS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NHS Digital - Patient Encounter History</title>
+      <link>http://localhost:1313/projects/nhs-peh/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/nhs-peh/</guid>
+      <description>&lt;p&gt;Led the development of a product to enable clinicians from different parts of Urgent and Emergency Care to view information about patient encounters in other care settings in order to help diagnose complex cases, reassure patients, build rapport, and to identify worsening conditions. This was developed in a user centred way using Discovery to understand patient and clinical needs and Alpha to iteratively prototype and explore technical options.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

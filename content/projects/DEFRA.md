@@ -7,8 +7,8 @@ link: "https://engageenvironmentagency.uk.engagementhq.com/hub-page/the-flood-hy
 
 params:
     image:  
-        x: "images/works/defra.png"
-        _2x: "images/works/defra@2x.png"
+        x: "images/works/defra-logo.png"
+        _2x: "images/works/defra-logo@2x.png"
     
 
 ## The content is used for the description of the project

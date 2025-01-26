@@ -77,7 +77,7 @@ education:
 contact:
   enable: true
   form:
-    action: "#"
+    action: "https://forms.un-static.com/forms/95eb2eaea6d3dc676d1d300d709f44eb48dc5676"
   button:
     icon: "icon-email"
 

@@ -66,7 +66,7 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "A picture of Cool Name"
+  translation: "A circular logo, on the left is a compass, on the right is a package there are arrows between the two making a circle. Discover Deliver is written into the border "
 
 ## Homepage about
 - id: "about_title"

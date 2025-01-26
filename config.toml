@@ -7,7 +7,7 @@ theme = "adritian-free-hugo-theme"
   title = 'Discover Deliver Ltd'
   description = 'I help multidisciplinary teams deliver services in a user centred way'
   images = ['/images/discover-deliver-logo-small.png']
-  sections = ["showcase", "about", "client-and-work", "contact"]
+  sections = ["showcase", "about", "client-and-work"]
 
   homepageExperienceCount = 6
 
